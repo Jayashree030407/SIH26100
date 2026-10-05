@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ProcureAI",
+  "description": "AI-Powered Bid Compliance Verification Platform for Government Procurement Officers (SIH26100)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
